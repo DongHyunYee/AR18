@@ -1,5 +1,5 @@
 //
-// AR11, TMP36 sensor
+// AR18, TMP36 sensor
 //
 
 #define TEMP_INPUT 0
